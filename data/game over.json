@@ -1,13 +1,13 @@
 {
     "id": 57436521,
     "name": "game over",
-    "author": "liknod pidorasina blya",
+    "author": "liknod",
     "creators": [
 ],
     "verifier": "ruby",
     "verification": "ЕDDU",
     "percentToQualify": "100",
-    "Cps Cap": "15",
+    "CpsCap": "15",
     "records": [
     ]
 }
