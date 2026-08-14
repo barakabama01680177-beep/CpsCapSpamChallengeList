@@ -5,7 +5,7 @@
     "creators": ["liknod"],
     "verifier": "ruby",
     "verification": "https://youtu.be/Xk-gjj6RH2g",
-    "fps": 120,
+    "fps": "120",
     "cps_cap": "15",
     "records": [
         {
