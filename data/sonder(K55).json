@@ -1,12 +1,13 @@
 {
     "id": 57436521,
     "name": "sonder(K55)",
-    "author": "name",
-    "creators": [],
+    "author": "sus",
+    "creators": [
+],
     "verifier": "CONSSTEL",
-    "verification": "",
+    "verification": "ЕDDU",
     "percentToQualify": "100",
-    "cpscap": "16.67",
+    "CpsCap": "16.67",
     "records": [
-    ] 
+    ]
 }
