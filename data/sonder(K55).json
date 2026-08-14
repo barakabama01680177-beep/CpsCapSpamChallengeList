@@ -5,7 +5,7 @@
     "creators": [],
     "verifier": "Viper Arctutus",
     "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 100,
+    "percentToQualify": "100",
     "fps": "300",
     "cps cap": "16.67",
     "records": [
