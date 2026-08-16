@@ -1,1 +1,11 @@
-
+{
+    "id": 77682242,
+    "name": "trick extension",
+    "author": "zfishal",
+    "creators": ["zfishal"],
+    "verifier": "ruby",
+    "verification": "https://youtu.be/n5wbj9anNM0",
+    "fps": 60,
+    "cps_cap": "15",
+    "records": [
+        }
