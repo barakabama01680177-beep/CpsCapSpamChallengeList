@@ -5,6 +5,7 @@
     "creators": ["zfishal"],
     "verifier": "ruby",
     "verification": "https://youtu.be/n5wbj9anNM0",
+    "percentToQualify": "100",
     "fps": 60,
     "cps_cap": "15",
     "records": [
